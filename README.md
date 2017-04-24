@@ -1,6 +1,6 @@
 #mocha-test
 
-This project contains basic [Mocha](http://visionmedia.github.io/mocha/) tests with [Chai](http://chaijs.com/) assertions. Tests are done in BDD-style (like Jasmine).
+This project contains basic [Mocha](http://mochajs.org/) tests with [Chai](http://chaijs.com/) assertions. Tests are done in BDD-style (like Jasmine).
 
 Project uses bower chai and jquery packages, and node mocha package.
 
